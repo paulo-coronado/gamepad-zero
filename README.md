@@ -26,7 +26,7 @@ Note:
 Once inside, you may want to give your controller a good cleaning with some rubbing alcohol and Q-tips. There's going to be a lot of strange build-up in there after 30+ years.
 
 ## Solder your connections
-
+![Connections](/images/gpio-connections.png)
 Cut the cord off your NES controller, leaving about 6" of excess wire. We're going to reuse the old wires and solder them directly to the Pi Zero.
 
 Using the attached wiring diagram, solder the 5 wires from your original NES controller onto the Pi Zero's GPIO header.
