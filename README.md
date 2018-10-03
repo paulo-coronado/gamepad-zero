@@ -1,6 +1,6 @@
 # Gamepad Zero: a Raspberry Pi Retro Gaming Rig inside an Original NES Controller
 
-![Controller](/images/internal-controller-2.png)
+![Controller](/images/internal-controller-2.jpeg)
 
 ## Overview
 
