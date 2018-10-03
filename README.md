@@ -1,7 +1,5 @@
 # Gamepad Zero: a Raspberry Pi Retro Gaming Rig inside an Original NES Controller
 
-![Controller](/images/internal-controller-2.jpeg)
-
 ## Overview
 
 For this project, we're going to build a Raspberry Pi retro gaming rig inside of an original NES controller. The top half of the controller will be reused, along with the original printed circuit board and button. Of course, we'll be installing RetroPie.
